@@ -83,7 +83,7 @@ All durations are fully customizable from the settings panel at the bottom of th
 
 ## 📸 Preview
 
-> ![App preview](./preview.png)
+![App preview](./src/preview.png)
 
 ---
 
