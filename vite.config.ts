@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/pomodoro-app/",
+  base: "/Pomodoro-Productivity-App/",
   server: {
     allowedHosts: true,
   },
